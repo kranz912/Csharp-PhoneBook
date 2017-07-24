@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persons>
+    <Person>
+      <Name>
+        <Prefix>Mr</Prefix>
+        <Firstname>Kranz</Firstname>
+        <Middlename>asd</Middlename>
+        <Lastname>Fontanilla</Lastname>
+        <Suffix>RN</Suffix>
+      </Name>
+      <Phone>
+        <Number>09096662431</Number>
+        <Type>home</Type>
+      </Phone>
+      <Email>
+        <Address>me@kranznikolai.com</Address>
+        <Type>home</Type>
+      </Email>
+      <Group>family</Group>
+      <Organization>DMMMSU</Organization>
+      <Address>
+        <Street>6440 Admiral Avenue</Street>
+        <City>Middle Village</City>
+        <State>New York</State>
+        <ZipCode>11379</ZipCode>
+        <Country />
+        <Type>home</Type>
+      </Address>
+      <NickName>Niko</NickName>
+      <Website>kranznikolai.com</Website>
+    </Person>
+    <Person>
+      <Name>
+        <Prefix />
+        <Firstname>Rochelle Mae</Firstname>
+        <Middlename>Simsiman</Middlename>
+        <Lastname>Fontanilla</Lastname>
+        <Suffix />
+      </Name>
+      <Phone>
+        <Number>09096662431</Number>
+        <Type>home</Type>
+      </Phone>
+      <Email>
+        <Address>me@kranznikolai.com</Address>
+        <Type>home</Type>
+      </Email>
+      <Group>family</Group>
+      <Organization />
+      <Address>
+        <Street>6440 Admiral Avenue</Street>
+        <City>Middle Village</City>
+        <State>New York</State>
+        <ZipCode>11379</ZipCode>
+        <Country />
+        <Type>home</Type>
+      </Address>
+      <NickName>RoChie</NickName>
+      <Website>asdas</Website>
+    </Person>
+    <Person>
+      <Name>
+        <Prefix>ms</Prefix>
+        <Firstname>Maria Myross</Firstname>
+        <Middlename>Subida</Middlename>
+        <Lastname>Fontanilla</Lastname>
+        <Suffix />
+      </Name>
+      <Phone>
+        <Number>9293649028</Number>
+        <Type>home</Type>
+      </Phone>
+      <Email>
+        <Address>me@kranznikolai.com</Address>
+        <Type>home</Type>
+      </Email>
+      <Group>family</Group>
+      <Organization>asd</Organization>
+      <Address>
+        <Street>asd</Street>
+        <City>asd</City>
+        <State>asda</State>
+        <ZipCode>asd</ZipCode>
+        <Country>asd</Country>
+        <Type>home</Type>
+      </Address>
+      <NickName>mm</NickName>
+      <Website>mma.com</Website>
+    </Person>
+  </Persons>
+</Contacts>

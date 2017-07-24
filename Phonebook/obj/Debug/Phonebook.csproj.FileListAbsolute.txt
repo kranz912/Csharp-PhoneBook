@@ -1,0 +1,16 @@
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\bin\Debug\PlaceholderTextBox.dll
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\MainWindow.g.cs
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\App.g.cs
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook_MarkupCompile.cache
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook_MarkupCompile.lref
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\MainWindow.baml
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.g.resources
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+c:\users\kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\Kranz\documents\visual studio 2017\Projects\Phonebook\Phonebook\obj\Debug\GeneratedInternalTypeHelper.g.cs
